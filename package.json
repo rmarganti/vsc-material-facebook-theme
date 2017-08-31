@@ -1,8 +1,8 @@
 {
     "name": "vsc-material-facebook-theme",
     "displayName": "Material Facebook Theme",
-    "description": "Visual Studio code combiningg Material editor theme and Facebook syntax highlighting",
-    "version": "1.0.0",
+    "description": "Visual Studio Code theme combining Material editor theme and Facebook syntax highlighting",
+    "version": "1.0.1",
     "publisher": "rmarganti",
     "homepage": "https://github.com/rmarganti/vsc-material-facebook-theme",
     "repository": {
@@ -11,6 +11,11 @@
     },
     "bugs": {
       "url": "https://github.com/rmarganti/vsc-material-facebook-theme/issues"
+    },
+    "icon": "logo.png",
+    "galleryBanner": {
+      "color": "#263238",
+      "theme": "dark"
     },
     "engines": {
         "vscode": "^1.15.0"

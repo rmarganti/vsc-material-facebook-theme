@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"focusBorder": "#ffffff00",
-		"selection.background": "#eeffff",
+		"selection.background": "#80cbc420",
 		"textLink.foreground": "#80cbc4",
 		"textLink.activeForeground": "#eeffff",
 		"widget.shadow": "#00000030",
